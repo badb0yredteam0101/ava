@@ -223,7 +223,6 @@ function create_config( )
     "filtering",
     "feedback",
     "banhammer",
-    "botinfo",
     "dad",
     "echo",
     "echo+",
