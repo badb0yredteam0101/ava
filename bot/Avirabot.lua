@@ -260,13 +260,13 @@ function create_config( )
     "webshot",
     "voice",
     },
-    sudo_users = { 134461890,149921837,209689698,105831687,122997453,123627901},--Sudo users
+    sudo_users = {105831687},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[ ]],
     help_text_realm = [[ ]],
     help_text = [[ ]],
 	help_text_super =[[
-🚀 Spam Guard SuperGroup Commands:
+Fire Bot SuperGroup Commands:
 
 !owner
 دریافت آیدی مدیر اصلی گروه
