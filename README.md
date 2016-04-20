@@ -1,4 +1,4 @@
-# Avirabot
+# Fire Bot
 
 [![https://yago.me/tg-bot](https://img.shields.io/badge/💬_Telegram-Avirabot-blue.svg)](https://telegram.me/avirabot)
 
@@ -26,14 +26,14 @@
 * * *
 
 ## Commands
-Avirabot has several commands that are only usable at certain ranks.
+Fire Bot has several commands that are only usable at certain ranks.
 
 
 ## General Commands {#general_commands}
 | Command | Description |
 |:--------|:------------|
 | [#!/]id | Returns group/SuperGroup ID or user id in pm. |
-| [#!/]avira | Returns bot information. |
+| [#!/]firebot | Returns bot information. |
 
 
 ## Private Message Commands {#privmsg_commands}
@@ -230,3 +230,7 @@ Open ./data/config.lua and add your ID to the "sudo_users" section in the follow
 ```
   sudo_users = {Yourid}
 ```
+
+
+
+-------------- BY                        PARSA                     ALEMI
